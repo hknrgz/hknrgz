@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey! 👋
 
 I'm Hakan Nergiz — a visual communication designer based in Turkey.
 
