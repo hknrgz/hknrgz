@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hknrgz/hknrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hakan Nergiz — a visual communication designer based in Turkey.
 
-Here are some ideas to get you started:
+🎯 I focus on:
+- Interface Design  
+- Typography  
+- Branding 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating clean, functional, and visually engaging experiences.
+
+## 📫 Contact
+- Links: https://hakannergiz.com
+- Email: hey@hakannergiz.com
